@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Pan Wang's Academic Pages From Nanjing University of Posts&Telecommunications"
 author_profile: true
 redirect_from: 
   - /about/
