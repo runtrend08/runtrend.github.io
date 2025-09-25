@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-panwang.png"
   name             : "Pan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Full Professor of Nanjing University of Posts&Telecommunications, also own a startup company, Runtrend Tech, focusing on AI Enabled Network Security"
