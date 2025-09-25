@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Pan Wang's Academic Website From Nanjing University of Posts&Telecommunications"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Pan Wang's personal academic website.
+Pan Wang received his Ph.D in Communication and Information Systems at Nanjing University of Posts & Telecommunications, Nanjing, China, in 2013. Prof. Wang joined Nanjing University of Posts & Telecommunications (NJUPT) as an assistant professor in 2004. Since 2020, he has been a full Professor in the School of Modern Posts at NJUPT. He currently serves as Deputy Director of the Information Network Institute at NJUPT. He is also with the Communication and Network Technology Research Engineering Center of Jiangsu Province. Prof. Wang has published over 50 peer-reviewed papers in journals and magazines such as IEEE Communications Magazine, IEEE Internet of Things, IEEE TCSS, IEEE TCE, ACM TAAS, JSA, JPDC and Computer Networks, as well as in conferences including IEEE ICC, GLOBECOM, CyberSciTech, ISPA, DASC, SmartCity, ICNC, TrustCom, and CBDCom. His research focuses on AI-enabled network management, information and network security, Internet of Things, future communications, and networks. Prof. Wang’s research is supported in part by the China NSF (National Science Foundation), China MOST (Ministry of Science and Technology), China NDRC (National Development and Reform Commission), State Grid Corporation of China, and China Telecommunications. He has served on the organizing committee and the technical program committee for IEEE CyberSciTech 2021, 2022, and 2023 as chair of Workshop & Special Sessions. He has reviewed for several journals and magazines, including IEEE Communications Magazine, JSAC, IoT Journals, TNSM, TETCI, Access, Computer Networks, Computer Security, Computer Communications, EAAI, ESWA, Ad-Hoc Network, Apply Science, Sensors, Information Sciences, Electronics, CSSE, and Big Data Research.
 
 A data-driven personal website
 ======
