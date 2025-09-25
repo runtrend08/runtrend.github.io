@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pan Wang's Academic Pages From Nanjing University of Posts&Telecommunications"
+title: "Pan Wang's Academic Website From Nanjing University of Posts&Telecommunications"
 author_profile: true
 redirect_from: 
   - /about/
